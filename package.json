@@ -1,0 +1,26 @@
+{
+  "name": "react-clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hazeck/react-clock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hazeck/react-clock/issues"
+  },
+  "homepage": "https://github.com/hazeck/react-clock#readme",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
